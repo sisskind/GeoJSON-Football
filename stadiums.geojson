@@ -21,7 +21,7 @@
 {"geometry": {"type": "Point", "coordinates": [-86.771389, 36.166389]}, "properties": {"League": "NFL", "Team": "Tennessee Titans", "Lat": 36.166389, "Long": -86.771389, "Stadium": "LP Field"}, "type": "Feature"}, 
 {"geometry": {"type": "Point", "coordinates": [-71.26344, 42.090944]}, "properties": {"League": "NFL", "Team": "New England Patriots", "Lat": 42.090944, "Long": -71.26344, "Stadium": "Gillette Stadium"}, "type": "Feature"}, 
 {"geometry": {"type": "Point", "coordinates": [-75.1675, 39.900833]}, "properties": {"League": "NFL", "Team": "Philadelphia Eagles", "Lat": 39.900833, "Long": -75.1675, "Stadium": "Lincoln Financial Field"}, "type": "Feature"}, 
-{"geometry": {"type": "Point", "coordinates": [121.97, 37.403]}, "properties": {"League": "NFL", "Team": "San Francisco 49ers", "Lat": 37.403, "Long": 121.97, "Stadium": "Levis Stadium"}, "type": "Feature"}, 
+{"geometry": {"type": "Point", "coordinates": [-121.97, 37.403]}, "properties": {"League": "NFL", "Team": "San Francisco 49ers", "Lat": 37.403, "Long": 121.97, "Stadium": "Levis Stadium"}, "type": "Feature"}, 
 {"geometry": {"type": "Point", "coordinates": [-81.6375, 30.323889]}, "properties": {"League": "NFL", "Team": "Jacksonville Jaguars", "Lat": 30.323889, "Long": -81.6375, "Stadium": "EverBank Stadium"}, "type": "Feature"}, 
 {"geometry": {"type": "Point", "coordinates": [-122.331667, 47.595278]}, "properties": {"League": "NFL", "Team": "Seattle Seahawks", "Lat": 47.595278, "Long": -122.331667, "Stadium": "EverBank Field"}, "type": "Feature"}, 
 {"geometry": {"type": "Point", "coordinates": [-90.188611, 38.632778]}, "properties": {"League": "NFL", "Team": "St. Louis Rams", "Lat": 38.632778, "Long": -90.188611, "Stadium": "Edward Jones Dome"}, "type": "Feature"}, 
@@ -33,6 +33,6 @@
 {"geometry": {"type": "Point", "coordinates": [-86.163806, 39.760056]}, "properties": {"League": "NFL", "Team": "Indianapolis Colts", "Lat": 39.760056, "Long": -86.163806, "Stadium": "Lucas Oil Stadium"}, "type": "Feature"}, 
 {"geometry": {"type": "Point", "coordinates": [-87.616667, 39.743889]}, "properties": {"League": "NFL", "Team": "Chicago Bears", "Lat": 39.743889, "Long": -87.616667, "Stadium": "Soldier Field"}, "type": "Feature"}, 
 {"geometry": {"type": "Point", "coordinates": [-122.200556, 37.751667]}, "properties": {"League": "NFL", "Team": "Oakland Raiders", "Lat": 37.751667, "Long": -122.200556, "Stadium": "O.co Coliseum"}, "type": "Feature"},
-{"geometry": {"type": "Point", "coordinates": [93.225, 44.976]}, "properties": {"League": "NFL", "Team": "Minnesota Vikings", "Lat": 44.976, "Long": 93.225, "Stadium": "TCF Bank Stadium"}, "type": "Feature"}
+{"geometry": {"type": "Point", "coordinates": [-93.225, 44.976]}, "properties": {"League": "NFL", "Team": "Minnesota Vikings", "Lat": 44.976, "Long": 93.225, "Stadium": "TCF Bank Stadium"}, "type": "Feature"}
 ]
 }
